@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "python-for-data-science"
+  site-url: "https://ujjwal rastogi.github.io/python-for-data-science"
+  description: "python for data science from beginning to master"
+  repo-branch: main
+  repo-url: "https://github.com/ujjwal rastogi/python-for-data-science"
